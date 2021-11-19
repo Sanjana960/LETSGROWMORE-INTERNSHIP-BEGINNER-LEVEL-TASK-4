@@ -1,2 +1,3 @@
-# LETSGROWMORE-INTERNSHIP-BEGINNER-LEVEL-TASK-4
-Converting image to pencil sketch
+# LETSGROWMORE-INTERNSHIP
+task01-Converting image to pencil sketch
+tasl02-Prediction using Decision Tree  Algorithm 
